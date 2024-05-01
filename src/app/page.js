@@ -1,5 +1,10 @@
 import Counter from "@/components/counter/Counter";
 
+export const metadata = {
+  title: "Home page",
+  description: "This is home page",
+};
+
 const HomePage = () => {
   // console.log("Hello world");
   return (

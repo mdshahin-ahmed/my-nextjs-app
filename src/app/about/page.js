@@ -1,5 +1,9 @@
 import styles from "./About.module.css";
 
+export const metadata = {
+  title: "About page",
+};
+
 const AboutPage = () => {
   return (
     <div>
