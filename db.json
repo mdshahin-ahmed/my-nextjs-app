@@ -1,0 +1,40 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Sleek Running Shoes",
+      "description": "Lightweight and breathable running shoes for optimal performance.",
+      "price": 105.99
+    },
+    {
+      "id": 2,
+      "title": "Classic Sneakers",
+      "description": "Timeless sneakers suitable for casual wear.",
+      "price": 59.99
+    },
+    {
+      "id": 3,
+      "title": "High-Top Basketball Shoes",
+      "description": "Supportive basketball shoes designed for quick cuts and jumps.",
+      "price": 109.99
+    },
+    {
+      "id": 4,
+      "title": "Outdoor Trail Shoes",
+      "description": "Durable trail shoes with excellent grip for off-road adventures.",
+      "price": 79.99
+    },
+    {
+      "id": 5,
+      "title": "Fashionable Slip-Ons",
+      "description": "Stylish slip-on shoes perfect for everyday wear.",
+      "price": 49.99
+    },
+    {
+      "id": 6,
+      "title": "Training Sneakers",
+      "description": "Versatile sneakers ideal for gym workouts and cross-training.",
+      "price": 69.99
+    }
+  ]
+}
